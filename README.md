@@ -2,8 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
-water level monitoring and alarm system
+# water level monitoring and alarm system 🎯
 ## Basic Details
 
 ### Team Name: [Name]
